@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="qrcode.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42685619"
+     inkscape:cx="-138.88893"
+     inkscape:cy="441.22752"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1832"
+     inkscape:window-height="1019"
+     inkscape:window-x="86"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="QR"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Texts">
+    <image
+       sodipodi:absref="/home/trombik/github/trombik/mkrsgh-print-materials/makerspace/qrcode/wifi/output.svg"
+       xlink:href="output.svg"
+       style="display:inline"
+       y="82.043388"
+       x="56.978127"
+       id="image3596"
+       height="96.043747"
+       width="96.043747"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
+    <g
+       id="g8210"
+       transform="translate(0.26620714,-18.101422)">
+      <g
+         id="g8166">
+        <g
+           id="g8022"
+           transform="matrix(0.02022449,0,0,0.02022449,59.055907,203.45651)">
+          <g
+             id="g7958">
+	<g
+   id="g7956">
+		<g
+   id="g7942">
+			<path
+   d="m 395.225,277.325 c -6.8,0 -13.5,-2.6 -18.7,-7.8 -71.4,-71.3 -187.4,-71.3 -258.8,0 -10.3,10.3 -27.1,10.3 -37.4,0 -10.3,-10.3 -10.3,-27.1 0,-37.4 92,-92 241.6,-92 333.6,0 10.3,10.3 10.3,27.1 0,37.4 -5.2,5.2 -12,7.8 -18.7,7.8 z"
+   id="path7940" />
+
+		</g>
+
+		<g
+   id="g7946">
+			<path
+   d="m 323.625,348.825 c -6.8,0 -13.5,-2.6 -18.7,-7.8 -15.4,-15.4 -36,-23.9 -57.8,-23.9 -21.8,0 -42.4,8.5 -57.8,23.9 -10.3,10.3 -27.1,10.3 -37.4,0 -10.3,-10.3 -10.3,-27.1 0,-37.4 25.4,-25.4 59.2,-39.4 95.2,-39.4 36,0 69.8,14 95.2,39.5 10.3,10.3 10.3,27.1 0,37.4 -5.1,5.1 -11.9,7.7 -18.7,7.7 z"
+   id="path7944" />
+
+		</g>
+
+		<g
+   id="g7950">
+			<circle
+   cx="247.125"
+   cy="398.92499"
+   r="35.299999"
+   id="circle7948" />
+
+		</g>
+
+		<g
+   id="g7954">
+			<path
+   d="m 467.925,204.625 c -6.8,0 -13.5,-2.6 -18.7,-7.8 -111.5,-111.4 -292.7,-111.4 -404.1,0 -10.3,10.3 -27.1,10.3 -37.4,0 -10.3,-10.3 -10.3,-27.1 0,-37.4 64,-64 149,-99.2 239.5,-99.2 90.5,0 175.5,35.2 239.5,99.2 10.3,10.3 10.3,27.1 0,37.4 -5.3,5.2 -12.1,7.8 -18.8,7.8 z"
+   id="path7952" />
+
+		</g>
+
+	</g>
+
+</g>
+          <g
+             id="g7960">
+</g>
+          <g
+             id="g7962">
+</g>
+          <g
+             id="g7964">
+</g>
+          <g
+             id="g7966">
+</g>
+          <g
+             id="g7968">
+</g>
+          <g
+             id="g7970">
+</g>
+          <g
+             id="g7972">
+</g>
+          <g
+             id="g7974">
+</g>
+          <g
+             id="g7976">
+</g>
+          <g
+             id="g7978">
+</g>
+          <g
+             id="g7980">
+</g>
+          <g
+             id="g7982">
+</g>
+          <g
+             id="g7984">
+</g>
+          <g
+             id="g7986">
+</g>
+          <g
+             id="g7988">
+</g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="82.900993"
+           y="211.08684"
+           id="text8026"><tspan
+             sodipodi:role="line"
+             id="tspan8024"
+             x="82.900993"
+             y="211.08684"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">makers</tspan></text>
+      </g>
+      <g
+         id="g8173">
+        <g
+           id="g8123"
+           transform="matrix(0.01020408,0,0,0.01020408,58.953866,222.95597)">
+          <path
+             d="m 500,550.6 c -27.8,0 -50.6,22.9 -50.6,50.6 0,18 9.8,34.3 26.1,44.1 v 49 c 0,14.7 11.4,24.5 26.1,24.5 14.7,0 26.1,-11.4 26.1,-24.5 v -49 c 14.7,-8.2 26.1,-24.5 26.1,-44.1 -3.2,-27.7 -26,-50.6 -53.8,-50.6 z"
+             id="path8119" />
+          <path
+             d="M 500,10 C 228.9,10 10,228.9 10,500 10,771.1 228.9,990 500,990 771.1,990 990,771.1 990,500 990,228.9 771.1,10 500,10 Z m 220.5,735 c 0,14.7 -11.4,24.5 -26.1,24.5 H 305.6 c -14.7,0 -26.1,-11.4 -26.1,-24.5 V 524.5 c 0,-14.7 11.4,-24.5 26.1,-24.5 h 42.5 V 382.4 c 0,-83.3 68.6,-151.9 151.9,-151.9 83.3,0 151.9,68.6 151.9,151.9 0,14.7 -11.4,24.5 -26.1,24.5 -14.7,0 -26.1,-11.4 -26.1,-24.5 0,-55.5 -45.7,-101.3 -101.3,-101.3 -55.5,0 -101.3,45.7 -101.3,101.3 V 500 h 204.2 50.6 42.5 c 14.7,0 26.1,11.4 26.1,24.5 z"
+             id="path8121" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="82.900993"
+           y="230.97772"
+           id="text8136"><tspan
+             sodipodi:role="line"
+             id="tspan8134"
+             x="82.900993"
+             y="230.97772"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">makersguesthouse</tspan></text>
+      </g>
+    </g>
+    <path
+       id="path10429"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.34571;stroke-opacity:1"
+       d="M 536.07031 92.710938 A 159.59963 71.77694 0 0 0 376.4707 164.48828 A 159.59963 71.77694 0 0 0 439.625 221.67578 L 446.58008 254.36914 L 473.13672 230.44922 A 159.59963 71.77694 0 0 0 536.07031 236.26562 A 159.59963 71.77694 0 0 0 695.66992 164.48828 A 159.59963 71.77694 0 0 0 536.07031 92.710938 z "
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Acme;-inkscape-font-specification:'Acme, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.1022"
+       y="49.267078"
+       id="text10423"><tspan
+         sodipodi:role="line"
+         id="tspan10425"
+         x="107.1022"
+         y="49.267078">Scan me for WiFi</tspan></text>
+  </g>
+</svg>
