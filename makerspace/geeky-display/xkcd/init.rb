@@ -35,9 +35,19 @@ File.open(svg_file, "w+") do |f|
 end
 
 res = Net::HTTP.get_response(url_img)
-raise format("HTTP status (%<url>s) : %<code>d", url: url_img, code: res.code) if res.code.to_i != 200
+case res.code.to_i
+when 200
+  puts "found large image."
+when 404
+  warn format("HTTP status (%<url>s) : %<code>d", url: url_img, code: res.code)
+  warn "trying to fetch the original image..."
+  res = Net::HTTP.get_response(URI(json["img"]))
+  raise format("HTTP status (%<url>s) : %<code>d", url: json["img"], code: res.code) unless res.code.to_i == 200
+else
+  raise format("HTTP status (%<url>s) : %<code>d", url: url_img, code: res.code)
+end
 
-img_file = Pathname.pwd / id / url_img.path.split("/").last
+img_file = Pathname.pwd / id / res.header.uri.path.split("/").last
 File.open(img_file, "w+") do |f|
   f.write res.body
 end
@@ -48,7 +58,7 @@ FileUtils.copy(Pathname.pwd / "template.xcf", gimp_file.to_s) unless gimp_file.e
 puts format("url: %s", url_xkcd.to_s)
 puts format("title: %s", json["title"])
 puts format("alt: %s", json["alt"])
-puts format("img url: %s", url_img.to_s)
+puts format("img url: %s", res.header.uri.to_s)
 puts format("img path: %s", img_file.to_s)
 puts format("QR code path: %s", svg_file)
 puts format("Image path: %s", img_file.to_s)
