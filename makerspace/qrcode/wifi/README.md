@@ -10,7 +10,7 @@ bundle install
 ## Usage
 
 ```console
-env WIFI_PASSWORD="password" bundle exec ruby wifiqr.rb
+env WIFI_SSID="mynetwork" WIFI_PASSWORD="password" bundle exec ruby wifiqr.rb
 ```
 
 The output is saved to `output.svg`. The `inkscape` file is `qrcode.svg`.

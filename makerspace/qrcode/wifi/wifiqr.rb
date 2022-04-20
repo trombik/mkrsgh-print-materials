@@ -8,7 +8,7 @@ def escape(string)
 end
 
 type = "WPA" # WEP or WPA or WPA2-EAP, or nopass
-ssid = "makers"
+ssid = ARGV.first
 password = ENV["WIFI_PASSWORD"]
 escaped_url = format "WIFI:T:%<type>s;S:%<ssid>s;P:%<password>s;;",
                      type: escape(type),
