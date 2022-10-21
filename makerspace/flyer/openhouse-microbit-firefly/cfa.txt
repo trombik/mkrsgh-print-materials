@@ -1,0 +1,12 @@
+This weekend, we will create fireflies on micro:bit. The firefly individually starts flashing LEDs out of sync, but "inspires" nearby fireflies. Eventually, all the fireflies flashes, all at once, in synchrony without a conductor; a phenomenon called "self-synchronization".
+
+In the class, kids will learn comunication over radio wave, and a simple, but surprising, algorithm to orchestrate many micro:bits. Firefiles in Southeast Asia use the algorithm, discovered by a group of scientists, to play a stunning lightshow at night.
+
+Please bring your own laptop (not a tablet). We have limited numbers of laptops for rent. Contact us for availability.
+
+If you have never heard of micro:bit before, this video shows how it helps students develop computational thinking skills.
+
+"An introduction to the BBC micro:bit - inspiring every child to create their best digital future"
+https://www.youtube.com/watch?v=gBLuUwahBnw
+
+As always, contact us for reservation on Telegram at: https://t.me/mkrsgh
