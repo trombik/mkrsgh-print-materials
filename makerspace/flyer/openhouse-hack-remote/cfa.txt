@@ -1,0 +1,7 @@
+This weekend, we will hack an A/C remote. Ever forgotten to turn the A/C off while you are away from the home? We will create a solution for the problem.
+The goal is to control the A/C over WiFi. The circuit has an infrared diode and WiFi, replaying the radio signals to the A/C unit. In theory, you can control any Ir-remote device from a browser. In the workshop, we will learn how a remote works, and see the signals to hack.
+
+The workshop is intended for kids, but adults will also find it interesting. Let's make dumb home appliance a bit more smart!
+
+All materials are provided. The remote is specific to a model (my A/C). If you want to control your own A/C, let us know.
+Please contact us on Telegram at: https://t.me/mkrsgh
